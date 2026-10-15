@@ -1,11 +1,5 @@
 import mysql.connector
 
-class DataBase:
-    def __call__(cls, *args, **kwds):
-        pass
-    
-    def connect(self):
-        pass
+class Database:
+    ...
 
-if __name__ == '__main__':
-    pass
